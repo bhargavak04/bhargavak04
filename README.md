@@ -54,7 +54,6 @@ Welcome to my GitHub! I love building intelligent systems that combine web, ML, 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats]
 [![Bhargava's Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=bhargavak04&theme=react-dark&hide_border=true&area=true)](https://github.com/bhargavak04)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavak04&layout=compact&theme=tokyonight)
