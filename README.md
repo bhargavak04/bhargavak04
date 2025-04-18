@@ -30,6 +30,15 @@ Welcome to my GitHub! I love building intelligent systems that combine web, ML, 
 **AI & ML:**  
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFBB55?logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1F7AC0?logo=chainlink&logoColor=white)
+![LangFlow](https://img.shields.io/badge/-LangFlow-00B2CA?logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-2D3E50?logoColor=white)
 
 
 **Tools & Infra:**  
