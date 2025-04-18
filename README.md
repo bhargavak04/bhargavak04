@@ -58,7 +58,7 @@ Welcome to my GitHub! I love building intelligent systems that combine web, ML, 
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/bhargavak04)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhargav-akshit-kumar-alladi-52371b34b/)
 - ✉️ Email: bhargavak709@gmail.com 
 
 ---
