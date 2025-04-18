@@ -9,10 +9,8 @@ Welcome to my GitHub! I love building intelligent systems that combine web, ML, 
 - AI Agents & Personal Assistants  
 - Multimodal Retrieval (Text + Image)
 - Traditional Machine Learning
-- LangChain, RAG, VectorDBs  
-- Web Scraping & Automation (Playwright)  
-- End-to-End App Development (Frontend + Backend)  
-- Notion/Google Calendar Integrations  
+- Deep Learning (CNNs, RNNs, LSTMs, Attention Mechanisms)
+- LangChain, RAG, VectorDBs      
 - Hackathons & Innovation Challenges  
 
 ## ⚙️ Tech Stack
