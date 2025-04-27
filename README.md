@@ -21,7 +21,7 @@ Welcome to my GitHub! I love building intelligent systems that combine web, ML, 
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
 
 
-**Backend & AI:**  
+**Backend:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-3B3B98?logo=data:image/svg+xml;base64,PHN2ZyB4bWxu...)  
