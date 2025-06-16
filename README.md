@@ -1,15 +1,14 @@
 # 👋 Hey, I'm Bhargav !
 
-### AI Engineer | AI & ML Developer | GenAI + Multimodal Enthusiast
+### AI Engineer | Automation Engineer | GenAI + Multimodal Enthusiast
 
-Welcome to my GitHub! I love building intelligent systems that combine web, ML, and AI into impactful products. From voice-enabled apps to multimodal chatbots and productivity agents, I enjoy solving real-world problems with cutting-edge tech.
+Welcome to my GitHub! I love building intelligent systems that combine web, AI, and automation into impactful products. From voice-enabled apps to multimodal chatbots, productivity agents, and workflow automations, I enjoy solving real-world problems with cutting-edge tech.
 
 ## 🧠 Areas of Interest
 
 - AI Agents & Personal Assistants  
 - Multimodal Retrieval (Text + Image)
-- Traditional Machine Learning
-- Deep Learning (CNNs, RNNs, LSTMs, Attention Mechanisms)
+- Workflow Automation (n8n, Zapier)
 - LangChain, RAG, VectorDBs      
 - Hackathons & Innovation Challenges  
 
@@ -20,26 +19,25 @@ Welcome to my GitHub! I love building intelligent systems that combine web, ML, 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
 
-
 **Backend:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-3B3B98?logo=data:image/svg+xml;base64,PHN2ZyB4bWxu...)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
-**AI & ML:**  
+**AI & Automation:**  
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFBB55?logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/-LangChain-1F7AC0?logo=chainlink&logoColor=white)
 ![LangFlow](https://img.shields.io/badge/-LangFlow-00B2CA?logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4E9D?logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white)
+
+**Data & Analysis:**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-2D3E50?logoColor=white)
-
 
 **Tools & Infra:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -65,7 +63,6 @@ Welcome to my GitHub! I love building intelligent systems that combine web, ML, 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavak04&layout=compact&theme=tokyonight)      
 <img src="https://github-readme-stats-denvercoder1.vercel.app/api?username=bhargavak04&bg_color=45,fc466b,3f5efb&title_color=ffffff&text_color=ffffff" />
-
 
 ## 📫 Let's Connect
 
