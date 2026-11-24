@@ -1,74 +1,180 @@
-# 👋 Hey, I'm Bhargav !
 
-### AI Engineer | Automation Engineer | GenAI + Multimodal Enthusiast
+<!--
+  GitHub Profile README
+  https://github.com/bhargavak04
+-->
 
-Welcome to my GitHub! I love building intelligent systems that combine web, AI, and automation into impactful products. From voice-enabled apps to multimodal chatbots, productivity agents, and workflow automations, I enjoy solving real-world problems with cutting-edge tech.
+<div align="center">
 
-## 🧠 Areas of Interest
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=9B7BFF&center=true&vCenter=true&width=650&lines=Initializing+Bhargav.exe...;Building+cool+stuff+with+AI;Breaking+things.+Fixing+them+with+code;Automating+the+boring+stuff" alt="Typing SVG" />
 
-- AI Agents & Personal Assistants  
-- Multimodal Retrieval (Text + Image)
-- Workflow Automation (n8n, Zapier)
-- LangChain, RAG, VectorDBs      
-- Hackathons & Innovation Challenges  
+</div>
 
-## ⚙️ Tech Stack
+<table>
+<tr>
+<td width="62%" valign="middle">
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+# Hey, I'm Bhargav 👾
 
-**Backend:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-3B3B98?logo=data:image/svg+xml;base64,PHN2ZyB4bWxu...)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+### Building cool stuff. Breaking things. Fixing them with AI.
 
-**AI & Automation:**  
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFBB55?logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-1F7AC0?logo=chainlink&logoColor=white)
-![LangFlow](https://img.shields.io/badge/-LangFlow-00B2CA?logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4E9D?logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white)
+I'm a **Junior Software Developer** interested in AI systems, backend engineering, automation and building useful products.
 
-**Data & Analysis:**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-2D3E50?logoColor=white)
+I enjoy connecting things that weren't originally designed to work together.
 
-**Tools & Infra:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Notion API](https://img.shields.io/badge/-Notion_API-000000?logo=notion&logoColor=white)
+- 🤖 Building AI-powered applications and MCP integrations
+- ⚙️ Automating workflows and repetitive processes
+- 🔧 Working with backend systems, APIs and databases
+- 🎮 Exploring game development and other interesting side projects
+- 🧠 Always experimenting with something new
 
-## 🚀 Featured Projects
+**Current status:** Probably debugging something.
 
-1. **[AI Help Bot for MOSDAC](https://github.com/bhargavak04/SSIP_RAG_MultiModal)**  
-   NLP-powered bot that scrapes, indexes & answers queries using GenAI & Playwright. Built for a national-level hackathon.
+</td>
+<td width="38%" align="center" valign="middle">
 
-2. **[Student Task Manager + Agent](https://github.com/bhargavak04/Artemis-TaskManager)**  
-   A LangChain agent that updates your Notion planner, reminds tasks via AI chat, and integrates with Google Calendar.
+<img src="./assets/gojo.gif" width="260" alt="Gojo Satoru" />
 
-3. **[Speaker Detection & Emotion Identification](https://github.com/bhargavak04/Speaker-Identification-Emotion-Detection)**  
-   Utilizes ECAPA-TDNN Model for Efficient Speaker Identification and Wavv2vec for Emotion Detection Robustly
+<br/>
 
-4. **[Portfolio Risk Analyzer](https://github.com/Team-Perceptrons/FinGuide_agent)**  
-   AI-powered finance dashboard with JSON API output, stock risk scores, and investment strategy insights.
+<sub>Throughout heaven and earth, I alone am the honored one.</sub>
 
-## 📊 GitHub Stats
-
-[![Bhargava's Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=bhargavak04&theme=react-dark&hide_border=true&area=true)](https://github.com/bhargavak04)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavak04&layout=compact&theme=tokyonight)      
-<img src="https://github-readme-stats-denvercoder1.vercel.app/api?username=bhargavak04&bg_color=45,fc466b,3f5efb&title_color=ffffff&text_color=ffffff" />
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/bhargav-akshit-kumar-alladi-52371b34b/)
-- ✉️ Email: bhargavak709@gmail.com 
+</td>
+</tr>
+</table>
 
 ---
 
-⭐ From [Bhargav Akshith](https://github.com/bhargavak04)
+## `~/terminal` — A little about me
+
+```bash
+bhargav@github:~$ whoami
+
+Junior Software Developer
+AI enthusiast | Backend developer | Automation addict
+
+bhargav@github:~$ experience
+
+Sportomic
+Building production software, AI integrations,
+messaging automation and backend services.
+
+bhargav@github:~$ currently_learning
+
+AI systems, agentic workflows, MCP and system design
+
+bhargav@github:~$ exit
+
+Error: Too many ideas. Process still running...
+```
+
+## ⚡ Tech Arsenal
+
+**Languages & Backend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**AI & Automation**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-6E56CF?style=for-the-badge)
+
+**Databases & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Frontend & Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+### Junior Software Developer · Sportomic
+
+*July 2026 – Present*
+
+Working on production applications involving backend development, AI integrations, messaging automation and cloud infrastructure.
+
+- Developing backend services and AI-powered integrations.
+- Building automation workflows and messaging-based applications.
+- Working with MCP, Node.js, Python and databases.
+- Contributing to production systems and platform improvements.
+
+### Software Development Intern · Sportomic
+
+*June 2025 – June 2026*
+
+- Worked on AI automation and software development.
+- Built automation workflows and integrations.
+- Contributed to messaging-based booking experiences and internal tools.
+
+---
+
+## 🚀 Projects
+
+| Project | Description |
+|---|---|
+| [AI Help Bot for MOSDAC](https://github.com/bhargavak04/SSIP_RAG_MultiModal) | Multimodal RAG-based AI help bot |
+| [Artemis Task Manager](https://github.com/bhargavak04/Artemis-TaskManager) | Task management application |
+| [Speaker Identification & Emotion Detection](https://github.com/bhargavak04/Speaker-Identification-Emotion-Detection) | Audio analysis and emotion detection |
+| [FinGuide Agent](https://github.com/Team-Perceptrons/FinGuide_agent) | AI-powered financial guidance project |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-denvercoder1.vercel.app/api?username=bhargavak04&bg_color=45,fc466b,3f5efb&title_color=ffffff&text_color=ffffff&show_icons=true&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavak04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+## 👾 Pac-Man is eating my contributions
+
+<div align="center">
+
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/bhargavak04/bhargavak04/output/pacman-contribution-graph.svg)
+
+</div>
+
+---
+
+## 🌐 Find me around the internet
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-akshit-kumar-alladi-52371b34b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhargavak04)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargavak709@gmail.com)
+
+</div>
+
+<div align="center">
+
+### Thanks for visiting! ⭐
+
+*Now go build something cool.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f5efb,100:fc466b&height=100&section=footer" width="100%" />
+
+</div>
