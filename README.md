@@ -33,7 +33,11 @@ I enjoy connecting things that weren't originally designed to work together.
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/gojo.gif" width="260" alt="Gojo Satoru" />
+<img
+  src="https://media1.tenor.com/m/CM3NBqFV6VAAAAAd/satoru-gojo-jujutsu-kaisen.gif"
+  width="260"
+  alt="Satoru Gojo"
+ />
 
 <br/>
 
