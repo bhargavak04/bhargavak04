@@ -34,10 +34,10 @@ I enjoy connecting things that weren't originally designed to work together.
 <td width="38%" align="center" valign="middle">
 
 <img
-  src="https://media1.tenor.com/m/CM3NBqFV6VAAAAAd/satoru-gojo-jujutsu-kaisen.gif"
+  src="https://media1.tenor.com/m/l04kWBLHgFUAAAAC/hyouka-oreki.gif"
   width="260"
-  alt="Satoru Gojo"
- />
+  alt="Oreki Houtarou from Hyouka"
+/>
 
 <br/>
 
