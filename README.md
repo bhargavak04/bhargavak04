@@ -47,27 +47,8 @@ I enjoy connecting things that weren't originally designed to work together.
 </tr>
 </table>
 
----
 
-## `~/terminal` — A little about me
 
-```bash
-bhargav@github:~$ whoami
-
-Junior Software Developer
-AI enthusiast | Backend developer | Automation addict
-
-bhargav@github:~$ experience
-
-Sportomic
-Building production software, AI integrations,
-messaging automation and backend services.
-
-bhargav@github:~$ currently_learning
-
-AI systems, agentic workflows, MCP and system design
-
-```
 
 ## ⚡ Tech Arsenal
 
