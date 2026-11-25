@@ -41,7 +41,7 @@ I enjoy connecting things that weren't originally designed to work together.
 
 <br/>
 
-<sub>Throughout heaven and earth, I alone am the honored one.</sub>
+<sub>I'm not lazy. I'm just conserving energy.</sub>
 
 </td>
 </tr>
