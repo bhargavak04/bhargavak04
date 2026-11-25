@@ -177,7 +177,6 @@ Working on production applications involving backend development, AI integration
 
 ### Thanks for visiting! ⭐
 
-*Now go build something cool.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f5efb,100:fc466b&height=100&section=footer" width="100%" />
 
