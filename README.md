@@ -67,9 +67,6 @@ bhargav@github:~$ currently_learning
 
 AI systems, agentic workflows, MCP and system design
 
-bhargav@github:~$ exit
-
-Error: Too many ideas. Process still running...
 ```
 
 ## ⚡ Tech Arsenal
